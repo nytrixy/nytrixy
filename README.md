@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height=40 src="https://skillicons.dev/icons?i=java,python,html,css,php,nodejs" />
+    <img height=40 src="https://skillicons.dev/icons?i=java,html,css,nextjs" />
     <br />
-    <img height=40 src="https://skillicons.dev/icons?i=nginx,git,github,vscode,idea,phpstorm,webstorm,pycharm,mysql,redis" />
+    <img height=40 src="https://skillicons.dev/icons?i=nginx,git,mysql,mariadb,redis,springboot" />
+    <br />
+    <img height=40 src="https://skillicons.dev/icons?i=github,vscode,idea,phpstorm,webstorm,pycharm" />
   </a>
 </p>  
 
