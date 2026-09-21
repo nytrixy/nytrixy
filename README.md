@@ -2,9 +2,9 @@
   <a href="https://skillicons.dev">
     <img height=40 src="https://skillicons.dev/icons?i=java,html,css,gradle,maven" />
     <br />
-    <img height=40 src="https://skillicons.dev/icons?i=nginx,git,mysql,redis,bots,nextjs" />
+    <img height=40 src="https://skillicons.dev/icons?i=nginx,git,mysql,redis,bots,nextjs,spring" />
     <br />
-    <img height=40 src="https://skillicons.dev/icons?i=github,vscode,idea,webstorm" />
+    <img height=40 src="https://skillicons.dev/icons?i=github,vscode,idea,webstorm,docker" />
   </a>
 </p>  
 
